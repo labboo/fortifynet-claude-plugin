@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: anything-down-now
+expected_outcome: |
+  Claude lists the domains, reports which are down now with since-when and cause from get_uptime, and says which domains are not monitored instead of calling them up.

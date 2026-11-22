@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: client-summary-management-level
+expected_outcome: |
+  Claude reads the full FortifyNet report for acme.example and writes a client-ready summary that states it is based on FortifyNet's automated audit (with date and report id), lists prioritised work items with effort labelled as an estimate, lists areas not covered, and contains no prices.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: weekly-alerts-overview
+expected_outcome: |
+  Claude uses a 7-day period, lists alerts grouped by domain with items that need attention first, shows uptime as returned, and does not start audits.

@@ -1,0 +1,25 @@
+{
+  "name": "fortifynet",
+  "displayName": "FortifyNet",
+  "version": "0.1.0",
+  "description": "Audit your websites with FortifyNet and have Claude explain the score and findings in plain language, prioritise fixes, write client-ready security summaries, and check uptime and monitoring alerts. Needs a FortifyNet account.",
+  "author": {
+    "name": "FortifyNet / Westnell Holding AB",
+    "email": "support@fortifynet.com",
+    "url": "https://fortifynet.com"
+  },
+  "homepage": "https://fortifynet.com",
+  "privacyPolicyUrl": "https://fortifynet.com/PrivacyPolicy",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "website-audit",
+    "ssl",
+    "dns",
+    "email-security",
+    "security-headers",
+    "uptime",
+    "monitoring",
+    "msp"
+  ]
+}

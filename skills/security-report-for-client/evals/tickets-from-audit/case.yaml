@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: tickets-from-audit
+expected_outcome: |
+  Claude groups findings that share one fix into a single work item, keeps the most severe finding's priority, and gives each ticket concrete steps based on FortifyNet's fix steps, without prices.

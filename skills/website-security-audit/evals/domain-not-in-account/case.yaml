@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: domain-not-in-account
+expected_outcome: |
+  When FortifyNet reports that newsite.example is not in the account, Claude says so plainly, explains how to add it at https://fortifynet.com/Domains, and does not invent audit results or scan the site another way.

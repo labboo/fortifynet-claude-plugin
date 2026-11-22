@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: explains-latest-report-by-severity
+expected_outcome: |
+  Claude reads the latest FortifyNet report for example.com with full detail, states the score and audit date as returned, explains findings most severe first in plain language with fix steps, and invents no findings or numbers.

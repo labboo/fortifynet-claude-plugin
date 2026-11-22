@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fortifynet": {
+      "type": "http",
+      "url": "https://fortifynet.com/api/mcp"
+    }
+  }
+}

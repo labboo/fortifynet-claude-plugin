@@ -1,0 +1,8 @@
+# Owner's local submission notes: not part of the published plugin.
+SUBMIT.md
+# Results that `claude plugin eval` writes.
+skills/*/evals/results/
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
