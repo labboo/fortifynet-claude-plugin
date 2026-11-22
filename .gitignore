@@ -1,6 +1,6 @@
 # Owner's local submission notes: not part of the published plugin.
 SUBMIT.md
-# Results that `claude plugin eval` writes.
+# Local test results.
 skills/*/evals/results/
 .DS_Store
 Thumbs.db
