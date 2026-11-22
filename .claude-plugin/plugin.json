@@ -10,6 +10,10 @@
   },
   "homepage": "https://fortifynet.com",
   "privacyPolicyUrl": "https://fortifynet.com/PrivacyPolicy",
+  "termsOfServiceUrl": "https://fortifynet.com/TermsOfService",
+  "supportUrl": "https://fortifynet.com/Contact",
+  "documentationUrl": "https://github.com/labboo/fortifynet-claude-plugin#readme",
+  "repository": "https://github.com/labboo/fortifynet-claude-plugin",
   "license": "MIT",
   "keywords": [
     "security",
